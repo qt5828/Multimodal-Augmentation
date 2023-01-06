@@ -13,3 +13,11 @@ Self-MM/pretrained_model/
 Self-MM/results/
 
 # GMMIX parameter
+
+
+# GMMIX log
+GMMIX/log/
+GMMIX/wandb/
+
+# Self-MM log
+Self-MM/logs

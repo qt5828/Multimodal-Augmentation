@@ -13601,3 +13601,663 @@
 2023-01-06 15:22:11,261 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
 2023-01-06 15:22:11,273 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
 2023-01-06 15:22:11,273 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:12,913 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:12,915 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:12,916 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:12,919 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:12,919 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:12,927 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:12,928 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:12,932 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:12,932 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:12,938 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:12,939 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:12,939 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:12,943 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:12,943 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:12,943 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:12,947 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:13,274 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:13,275 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:13,999 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:14,002 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:14,002 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:14,005 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:14,005 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:14,008 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:14,014 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:14,014 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:14,014 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:14,017 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:14,018 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:14,018 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:14,021 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:14,021 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:14,021 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:14,024 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:14,275 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:15,276 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:17,277 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:19,101 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:19,103 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:19,103 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:19,106 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:19,145 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:19,147 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:19,147 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:19,148 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:19,149 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:19,278 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:19,441 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:19,442 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:19,442 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:19,445 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:19,446 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:19,446 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:19,449 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:20,279 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:20,650 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: stop_status
+2023-01-06 15:22:20,650 DEBUG   SenderThread:407221 [sender.py:send_request():317] send_request: stop_status
+2023-01-06 15:22:21,010 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:21,013 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:21,013 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:21,016 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:21,018 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:21,018 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:21,021 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:21,021 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:21,024 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:21,025 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:21,026 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:21,026 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:21,029 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:21,029 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:21,029 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:21,032 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:21,279 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:21,280 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:22,734 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:22,738 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:22,738 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:22,742 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:22,743 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:22,746 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:22,753 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:22,754 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:22,754 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:22,757 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:22,757 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:22,757 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:22,761 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:22,761 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:22,761 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:22,764 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:23,100 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:23,102 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:23,102 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:23,104 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:23,105 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:23,107 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:23,115 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:23,115 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:23,116 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:23,125 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:23,125 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:23,125 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:23,129 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:23,130 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:23,130 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:23,134 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:23,281 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:23,469 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:23,471 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:23,472 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:23,474 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:23,475 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:23,477 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:23,506 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:23,507 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:23,507 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:23,520 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:23,521 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:23,521 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:23,542 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:23,542 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:23,543 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:23,556 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:23,830 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:23,832 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:23,833 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:23,836 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:23,836 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:23,839 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:23,844 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:23,844 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:23,844 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:23,847 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:23,847 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:23,847 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:23,858 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:23,859 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:23,859 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:23,862 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:24,193 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:24,198 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:24,198 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:24,202 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:24,202 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:24,205 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:24,211 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:24,211 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:24,211 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:24,214 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:24,214 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:24,214 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:24,218 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:24,218 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:24,218 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:24,222 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:24,281 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:24,557 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:24,561 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:24,562 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:24,565 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:24,568 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:24,571 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:24,575 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:24,575 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:24,575 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:24,577 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:24,578 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:24,578 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:24,581 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:24,581 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:24,581 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:24,584 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:25,282 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:25,282 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:25,546 DEBUG   SenderThread:407221 [sender.py:send():303] send: stats
+2023-01-06 15:22:27,283 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:29,508 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:29,512 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:29,512 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:29,515 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:29,550 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:29,554 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:29,554 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:29,558 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:29,558 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:29,566 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:29,566 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:29,566 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:29,571 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:29,572 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:29,572 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:29,576 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:30,285 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:31,286 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:32,740 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:32,743 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:32,744 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:32,749 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:32,781 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:32,783 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:32,783 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:32,784 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:32,785 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:32,792 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:32,792 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:32,793 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:32,799 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:32,799 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:32,800 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:32,804 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:33,088 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:33,090 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:33,090 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:33,092 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:33,092 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:33,094 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:33,102 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:33,102 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:33,102 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:33,105 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:33,106 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:33,106 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:33,109 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:33,110 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:33,110 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:33,112 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:33,287 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:33,477 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:33,479 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:33,479 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:33,480 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:33,481 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:33,482 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:33,491 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:33,492 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:33,492 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:33,501 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:33,501 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:33,501 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:33,638 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:33,638 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:33,638 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:33,643 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:33,824 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:33,827 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:33,827 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:33,830 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:33,830 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:33,833 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:33,840 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:33,840 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:33,840 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:33,846 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:33,847 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:33,847 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:33,852 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:33,853 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:33,853 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:33,858 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:34,171 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:34,174 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:34,174 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:34,175 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:34,178 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:34,186 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:34,195 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:34,195 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:34,196 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:34,287 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:34,294 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:34,294 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:34,295 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:34,310 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:34,310 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:34,310 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:34,314 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:34,528 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:34,532 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:34,533 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:34,536 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:34,537 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:34,541 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:34,552 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:34,552 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:34,552 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:34,557 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:34,557 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:34,558 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:34,562 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:34,562 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:34,563 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:34,566 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:34,900 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:34,905 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:34,905 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:34,906 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:34,907 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:34,910 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:34,911 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:34,912 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:34,912 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:34,923 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:34,924 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:34,924 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:34,927 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:34,927 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:34,927 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:34,930 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:35,288 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:35,288 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:35,880 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: stop_status
+2023-01-06 15:22:35,880 DEBUG   SenderThread:407221 [sender.py:send_request():317] send_request: stop_status
+2023-01-06 15:22:37,289 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:39,952 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:39,956 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:39,957 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:39,960 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:39,961 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:42,491 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:42,499 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:42,500 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:42,500 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:42,503 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:42,504 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:42,504 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:42,507 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:42,507 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:42,507 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:42,519 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:42,904 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:42,909 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:42,909 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:42,913 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:42,914 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:42,918 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:42,940 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:42,941 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:42,941 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:42,957 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:42,957 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:42,957 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:43,002 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:43,002 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:43,003 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:43,064 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:43,293 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:43,969 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:43,974 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:43,974 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:43,978 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:43,979 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:43,982 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:43,988 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:43,988 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:43,988 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:43,992 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:43,992 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:43,992 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:43,995 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:43,995 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:43,995 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:43,998 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:44,294 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:44,334 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:44,337 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:44,339 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:44,339 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:44,340 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:44,341 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:44,350 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:44,351 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:44,351 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:44,356 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:44,356 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:44,356 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:44,367 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:44,368 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:44,368 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:44,372 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:44,698 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:44,702 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:44,702 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:44,702 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:44,706 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:44,719 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:44,733 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:44,733 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:44,734 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:44,751 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:44,752 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:44,752 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:44,855 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:44,855 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:44,855 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:44,869 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:45,061 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:45,065 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:45,065 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:45,068 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:45,069 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:45,073 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:45,086 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:45,086 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:45,086 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:45,091 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:45,092 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:45,092 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:45,097 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:45,097 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:45,097 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:45,169 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:45,294 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:45,295 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:45,436 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:45,440 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:45,440 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:45,444 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:45,445 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:45,448 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:45,460 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:45,461 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:45,461 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:45,467 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:45,467 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:45,467 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:45,472 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:45,473 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:45,473 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:45,477 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:45,961 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:45,965 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:45,965 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:45,969 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:45,969 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:45,973 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:45,986 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:45,986 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:45,986 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:45,992 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:45,993 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:45,993 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:45,998 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:45,998 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:45,998 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:46,003 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:46,295 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:47,296 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:49,297 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:50,437 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:50,442 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:50,442 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:50,451 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:50,477 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:50,481 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:50,482 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:50,485 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:50,486 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:50,493 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:50,493 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:50,494 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:50,498 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:50,498 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:50,498 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:50,502 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:51,101 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: stop_status
+2023-01-06 15:22:51,102 DEBUG   SenderThread:407221 [sender.py:send_request():317] send_request: stop_status
+2023-01-06 15:22:51,298 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:53,300 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:53,975 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:53,977 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:53,978 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:53,984 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:54,017 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:54,022 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:54,022 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:54,026 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:54,027 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:54,033 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:54,033 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:54,033 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:54,036 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:54,036 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:54,036 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:54,052 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:54,300 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:55,548 DEBUG   SenderThread:407221 [sender.py:send():303] send: stats
+2023-01-06 15:22:55,551 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:55,553 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:55,556 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:55,556 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:55,558 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:55,561 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:55,612 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:55,612 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:55,612 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:55,619 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:55,619 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:55,619 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:55,629 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:55,629 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:55,629 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:55,642 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:55,893 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:55,897 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:55,898 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:55,901 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:55,905 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:55,905 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:55,909 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:55,910 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:55,913 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:55,919 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:55,919 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:55,919 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:55,924 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:55,924 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:55,925 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:55,929 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:56,242 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:56,246 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:56,247 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:56,251 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:56,251 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:56,255 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:56,265 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:56,266 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:56,266 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:56,272 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:56,273 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:56,273 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:56,279 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:56,279 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:56,279 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:56,284 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:56,301 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:56,603 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:56,605 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:56,605 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:56,607 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:56,608 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:56,610 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:56,619 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:56,620 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:56,620 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:56,626 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:56,627 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:56,627 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:56,633 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:56,633 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:56,634 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:56,639 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:56,962 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:56,966 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:56,967 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:56,971 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:56,971 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:56,975 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:56,986 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:56,987 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:56,987 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:56,993 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:56,993 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:56,994 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:57,000 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:57,000 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:57,000 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:57,004 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:57,302 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:22:57,302 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:57,331 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:57,336 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:57,340 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:57,340 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:57,344 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:22:57,344 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:57,354 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:57,354 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:57,355 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:57,506 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:57,506 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:57,506 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:57,509 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:57,509 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:22:57,509 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:22:57,511 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:22:58,303 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:22:59,303 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:23:01,120 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:01,122 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:01,122 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:01,122 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:01,130 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:01,133 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:01,136 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:01,136 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:01,136 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:01,146 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:01,146 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:01,146 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:01,170 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:01,170 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:01,170 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:01,191 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:01,305 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:23:03,306 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:23:04,490 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:04,581 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:04,581 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:04,583 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:04,583 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:04,585 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:04,593 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:04,594 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:04,594 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:04,606 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:04,607 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:04,607 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:04,619 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:04,619 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:04,620 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:04,653 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:05,307 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:23:05,567 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:05,572 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:05,572 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:05,577 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:05,577 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:05,581 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:05,594 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:05,595 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:05,595 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:05,602 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:05,602 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:05,602 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:05,607 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:05,608 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:05,608 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:05,612 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:06,308 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json
+2023-01-06 15:23:06,330 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: stop_status
+2023-01-06 15:23:06,330 DEBUG   SenderThread:407221 [sender.py:send_request():317] send_request: stop_status
+2023-01-06 15:23:06,747 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:06,752 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:06,752 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:06,759 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:06,760 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:06,766 DEBUG   HandlerThread:407221 [handler.py:handle_request():139] handle_request: partial_history
+2023-01-06 15:23:06,776 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:06,776 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:06,777 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:06,783 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:06,784 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:06,784 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:06,789 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:06,790 DEBUG   SenderThread:407221 [sender.py:send():303] send: history
+2023-01-06 15:23:06,790 DEBUG   SenderThread:407221 [sender.py:send():303] send: summary
+2023-01-06 15:23:06,795 INFO    SenderThread:407221 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 15:23:07,308 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/output.log
+2023-01-06 15:23:07,309 INFO    Thread-13 :407221 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-3g8os7zs/files/wandb-summary.json

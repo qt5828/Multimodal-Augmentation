@@ -1,0 +1,71 @@
+/home/wooyeon/Multimodal-Augmentation/GMMIX/CLIP/clip/clip.py:23: UserWarning: PyTorch version 1.7.1 or higher is recommended
+  warnings.warn("PyTorch version 1.7.1 or higher is recommended")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|███████████████████████████████████████| 338M/338M [02:00<00:00, 2.93MiB/s]
+Traceback (most recent call last):
+  File "/home/wooyeon/Multimodal-Augmentation/GMMIX/clip_mod_sph.py", line 918, in <module>
+    trainset    = COCODataset('/data/coco/images/train2017',anon_path='/data/coco/images/annotations/captions_train2017.json',transform=preprocess,perc=args.perc)
+  File "/home/wooyeon/Multimodal-Augmentation/GMMIX/dataset.py", line 47, in __init__
+    self.ds = torchvision.datasets.CocoCaptions(root=img_folder,annFile=anon_path,transform=transform)
+  File "/home/iknow/anaconda3/envs/ma/lib/python3.9/site-packages/torchvision/datasets/coco.py", line 46, in __init__
+    from pycocotools.coco import COCO
+ModuleNotFoundError: No module named 'pycocotools'

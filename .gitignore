@@ -1,0 +1,15 @@
+# GMMIX
+# coco, flicker 
+GMMIX/dataset/
+
+# Self-MM
+# mosi, mosei, sims
+Self-MM/dataset/
+
+# Pretraining model
+Self-MM/pretrained_model/
+
+# Self-MM parameter
+Self-MM/results/
+
+# GMMIX parameter

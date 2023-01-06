@@ -1,0 +1,179 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.7
+    framework: huggingface
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.9.15
+    start_time: 1672968572.221148
+    t:
+      1:
+      - 55
+      2:
+      - 1
+      - 5
+      - 11
+      - 41
+      - 53
+      - 55
+      - 80
+      3:
+      - 13
+      - 23
+      4: 3.9.15
+      5: 0.13.7
+      8:
+      - 5
+albef:
+  desc: null
+  value: false
+beta1:
+  desc: null
+  value: 1.0
+beta2:
+  desc: null
+  value: 1.0
+betavariate:
+  desc: null
+  value: 0.2
+bs:
+  desc: null
+  value: 128
+dataset:
+  desc: null
+  value: coco
+divt:
+  desc: null
+  value: 1.0
+dual_mix:
+  desc: null
+  value: false
+dusoft:
+  desc: null
+  value: false
+epoch:
+  desc: null
+  value: 10
+eps:
+  desc: null
+  value: 0.005
+fgsm:
+  desc: null
+  value: false
+geoc:
+  desc: null
+  value: -1.0
+group:
+  desc: null
+  value: SWSW
+input_cutmix:
+  desc: null
+  value: false
+input_img:
+  desc: null
+  value: false
+lmix:
+  desc: null
+  value: 0.1
+lr:
+  desc: null
+  value: 1.0e-06
+mall:
+  desc: null
+  value: 0.8
+manifold_all:
+  desc: null
+  value: false
+manifold_img:
+  desc: null
+  value: false
+manifold_txt:
+  desc: null
+  value: false
+method:
+  desc: null
+  value: null
+mmmix:
+  desc: null
+  value: 1.0
+mode:
+  desc: null
+  value: mix
+name:
+  desc: null
+  value: 221014_MSCOCO_MM
+neg_mix:
+  desc: null
+  value: true
+neg_mul:
+  desc: null
+  value: 0.1
+noclip:
+  desc: null
+  value: false
+noise:
+  desc: null
+  value: 0.0
+omega:
+  desc: null
+  value: 0.1
+original_neg:
+  desc: null
+  value: false
+out_img:
+  desc: null
+  value: false
+out_txt:
+  desc: null
+  value: false
+perc:
+  desc: null
+  value: 1.0
+psi:
+  desc: null
+  value: 0.0
+reinit:
+  desc: null
+  value: false
+rmse:
+  desc: null
+  value: false
+schedule:
+  desc: null
+  value: null
+seed:
+  desc: null
+  value: 1
+shared:
+  desc: null
+  value: false
+ssnmix:
+  desc: null
+  value: false
+startlr:
+  desc: null
+  value: 7.0e-06
+tscale:
+  desc: null
+  value: false
+valid:
+  desc: null
+  value: false
+vis:
+  desc: null
+  value: tsne
+vlmix:
+  desc: null
+  value: 0.1
+vmix:
+  desc: null
+  value: 0.1
+weight:
+  desc: null
+  value: null
+zeta:
+  desc: null
+  value: 0.1

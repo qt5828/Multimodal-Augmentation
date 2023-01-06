@@ -1,0 +1,26 @@
+2023-01-06 10:29:32,236 INFO    MainThread:4068315 [wandb_setup.py:_flush():68] Configure stats pid to 4068315
+2023-01-06 10:29:32,236 INFO    MainThread:4068315 [wandb_setup.py:_flush():68] Loading settings from /home/wooyeon/.config/wandb/settings
+2023-01-06 10:29:32,237 INFO    MainThread:4068315 [wandb_setup.py:_flush():68] Loading settings from /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/settings
+2023-01-06 10:29:32,237 INFO    MainThread:4068315 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2023-01-06 10:29:32,237 INFO    MainThread:4068315 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': 'GMMIX/clip_mod_sph.py', 'program': '/home/wooyeon/Multimodal-Augmentation/GMMIX/clip_mod_sph.py'}
+2023-01-06 10:29:32,237 INFO    MainThread:4068315 [wandb_init.py:_log_setup():476] Logging user logs to /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102932-1yeeo4ae/logs/debug.log
+2023-01-06 10:29:32,237 INFO    MainThread:4068315 [wandb_init.py:_log_setup():477] Logging internal logs to /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102932-1yeeo4ae/logs/debug-internal.log
+2023-01-06 10:29:32,238 INFO    MainThread:4068315 [wandb_init.py:init():516] calling init triggers
+2023-01-06 10:29:32,238 INFO    MainThread:4068315 [wandb_init.py:init():519] wandb.init called with sweep_config: {}
+config: {}
+2023-01-06 10:29:32,238 INFO    MainThread:4068315 [wandb_init.py:init():569] starting backend
+2023-01-06 10:29:32,238 INFO    MainThread:4068315 [wandb_init.py:init():573] setting up manager
+2023-01-06 10:29:32,243 INFO    MainThread:4068315 [backend.py:_multiprocessing_setup():102] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-01-06 10:29:32,247 INFO    MainThread:4068315 [wandb_init.py:init():580] backend started and connected
+2023-01-06 10:29:32,250 INFO    MainThread:4068315 [wandb_init.py:init():658] updated telemetry
+2023-01-06 10:29:32,261 INFO    MainThread:4068315 [wandb_init.py:init():693] communicating run to backend with 60 second timeout
+2023-01-06 10:29:32,742 INFO    MainThread:4068315 [wandb_run.py:_on_init():2006] communicating current version
+2023-01-06 10:29:32,819 INFO    MainThread:4068315 [wandb_run.py:_on_init():2010] got version response 
+2023-01-06 10:29:32,819 INFO    MainThread:4068315 [wandb_init.py:init():728] starting run threads in backend
+2023-01-06 10:29:37,068 INFO    MainThread:4068315 [wandb_run.py:_console_start():1986] atexit reg
+2023-01-06 10:29:37,068 INFO    MainThread:4068315 [wandb_run.py:_redirect():1844] redirect: SettingsConsole.WRAP_RAW
+2023-01-06 10:29:37,069 INFO    MainThread:4068315 [wandb_run.py:_redirect():1909] Wrapping output streams.
+2023-01-06 10:29:37,069 INFO    MainThread:4068315 [wandb_run.py:_redirect():1931] Redirects installed.
+2023-01-06 10:29:37,069 INFO    MainThread:4068315 [wandb_init.py:init():765] run started, returning control to user process
+2023-01-06 10:29:37,074 INFO    MainThread:4068315 [wandb_run.py:_config_callback():1163] config_cb None None {'startlr': 7e-06, 'lr': 1e-06, 'bs': 128, 'epoch': 10, 'group': 'SWSW', 'input_img': False, 'input_cutmix': False, 'manifold_img': False, 'out_img': False, 'out_txt': False, 'original_neg': False, 'manifold_txt': False, 'manifold_all': False, 'dual_mix': False, 'neg_mix': False, 'method': None, 'rmse': False, 'reinit': False, 'shared': False, 'ssnmix': False, 'valid': False, 'fgsm': False, 'weight': None, 'divt': 1.0, 'perc': 1.0, 'dusoft': False, 'dataset': 'coco', 'seed': 1, 'tscale': False, 'noclip': False, 'albef': False, 'vmix': 0.1, 'lmix': 0.1, 'vlmix': 0.1, 'mmmix': 0.1, 'noise': 0.0, 'beta1': 1.0, 'beta2': 1.0, 'omega': 0.1, 'zeta': 0.1, 'psi': 0.0, 'mall': 0.8, 'eps': 0.005, 'neg_mul': 0.1, 'mode': 'mix', 'betavariate': 0.2, 'geoc': -1.0, 'schedule': None, 'name': '221014_MSCOCO_FT', 'vis': 'tsne'}
+2023-01-06 10:29:56,492 WARNING MsgRouterThr:4068315 [router.py:message_loop():77] message_loop has been closed

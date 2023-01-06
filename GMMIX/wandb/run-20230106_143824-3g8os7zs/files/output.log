@@ -1,0 +1,199 @@
+/home/wooyeon/Multimodal-Augmentation/GMMIX/CLIP/clip/clip.py:23: UserWarning: PyTorch version 1.7.1 or higher is recommended
+  warnings.warn("PyTorch version 1.7.1 or higher is recommended")
+loading annotations into memory...
+Done (t=3.08s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.27s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.03s)
+creating index...
+index created!
+length of train set :  118287
+loading annotations into memory...
+Done (t=0.04s)
+creating index...
+index created!
+Length :  925
+EPOCH  0
+Validating...
+==========================
+Image2Text Retrieval : 31.869633099141296   56.830601092896174   67.01795472287276
+Text2Image Retrieval : 28.58   53.12   64.42
+==========================
+Imag :  tensor(0.4678, device='cuda:0')
+training...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

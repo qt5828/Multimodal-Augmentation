@@ -1,0 +1,184 @@
+2023-01-06 10:24:41,526 INFO    StreamThr :4055804 [internal.py:wandb_internal():87] W&B internal server running at pid: 4055804, started at: 2023-01-06 10:24:41.525094
+2023-01-06 10:24:41,529 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: status
+2023-01-06 10:24:41,533 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: status
+2023-01-06 10:24:41,535 DEBUG   SenderThread:4055804 [sender.py:send():303] send: header
+2023-01-06 10:24:41,536 INFO    WriterThread:4055804 [datastore.py:open_for_write():75] open: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/run-1baso0wb.wandb
+2023-01-06 10:24:41,544 DEBUG   SenderThread:4055804 [sender.py:send():303] send: run
+2023-01-06 10:24:42,044 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: check_version
+2023-01-06 10:24:42,053 INFO    SenderThread:4055804 [dir_watcher.py:__init__():216] watching files in: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files
+2023-01-06 10:24:42,053 INFO    SenderThread:4055804 [sender.py:_start_run_threads():928] run started: 1baso0wb with start time 1672968281.520866
+2023-01-06 10:24:42,053 DEBUG   SenderThread:4055804 [sender.py:send():303] send: summary
+2023-01-06 10:24:42,054 INFO    SenderThread:4055804 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 10:24:42,054 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: check_version
+2023-01-06 10:24:42,138 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: run_start
+2023-01-06 10:24:42,151 DEBUG   HandlerThread:4055804 [system_info.py:__init__():31] System info init
+2023-01-06 10:24:42,152 DEBUG   HandlerThread:4055804 [system_info.py:__init__():46] System info init done
+2023-01-06 10:24:42,152 INFO    HandlerThread:4055804 [system_monitor.py:start():150] Starting system monitor
+2023-01-06 10:24:42,152 INFO    SystemMonitor:4055804 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2023-01-06 10:24:42,152 INFO    HandlerThread:4055804 [system_monitor.py:probe():171] Collecting system info
+2023-01-06 10:24:42,153 INFO    SystemMonitor:4055804 [interfaces.py:start():168] Started cpu
+2023-01-06 10:24:42,154 INFO    SystemMonitor:4055804 [interfaces.py:start():168] Started disk
+2023-01-06 10:24:42,155 INFO    SystemMonitor:4055804 [interfaces.py:start():168] Started gpu
+2023-01-06 10:24:42,157 INFO    SystemMonitor:4055804 [interfaces.py:start():168] Started memory
+2023-01-06 10:24:42,158 INFO    SystemMonitor:4055804 [interfaces.py:start():168] Started network
+2023-01-06 10:24:42,190 DEBUG   HandlerThread:4055804 [system_info.py:probe():195] Probing system
+2023-01-06 10:24:42,205 DEBUG   HandlerThread:4055804 [system_info.py:_probe_git():180] Probing git
+2023-01-06 10:24:42,321 DEBUG   HandlerThread:4055804 [system_info.py:_probe_git():188] Probing git done
+2023-01-06 10:24:42,321 DEBUG   HandlerThread:4055804 [system_info.py:probe():241] Probing system done
+2023-01-06 10:24:42,321 DEBUG   HandlerThread:4055804 [system_monitor.py:probe():180] {'os': 'Linux-5.15.0-56-generic-x86_64-with-glibc2.35', 'python': '3.9.15', 'heartbeatAt': '2023-01-06T01:24:42.191027', 'startedAt': '2023-01-06T01:24:41.506349', 'docker': None, 'cuda': None, 'args': ('--dataset', 'coco', '--name', '221014_MSCOCO_FT'), 'state': 'running', 'program': '/home/wooyeon/Multimodal-Augmentation/GMMIX/clip_mod_sph.py', 'codePath': 'GMMIX/clip_mod_sph.py', 'git': {'remote': 'git@github.com:qt5828/Multimodal-Augmentation.git', 'commit': '3edcb26b4695fa61c632be33ad6bc172e20ba6ba'}, 'email': 'qt5828@naver.com', 'root': '/home/wooyeon/Multimodal-Augmentation', 'host': 'iknow-master', 'username': 'wooyeon', 'executable': '/home/iknow/anaconda3/envs/ma/bin/python', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 2498.7595, 'min': 1000.0, 'max': 4000.0}, 'cpu_freq_per_core': [{'current': 2143.409, 'min': 1000.0, 'max': 4000.0}, {'current': 2218.111, 'min': 1000.0, 'max': 4000.0}, {'current': 2160.136, 'min': 1000.0, 'max': 4000.0}, {'current': 2167.968, 'min': 1000.0, 'max': 4000.0}, {'current': 2168.572, 'min': 1000.0, 'max': 4000.0}, {'current': 2165.782, 'min': 1000.0, 'max': 4000.0}, {'current': 2162.471, 'min': 1000.0, 'max': 4000.0}, {'current': 3200.0, 'min': 1000.0, 'max': 4000.0}, {'current': 2165.428, 'min': 1000.0, 'max': 4000.0}, {'current': 2175.612, 'min': 1000.0, 'max': 4000.0}, {'current': 3200.0, 'min': 1000.0, 'max': 4000.0}, {'current': 3200.0, 'min': 1000.0, 'max': 4000.0}, {'current': 2155.127, 'min': 1000.0, 'max': 4000.0}, {'current': 3200.0, 'min': 1000.0, 'max': 4000.0}, {'current': 2179.629, 'min': 1000.0, 'max': 4000.0}, {'current': 2176.845, 'min': 1000.0, 'max': 4000.0}], 'disk': {'total': 3665.956069946289, 'used': 2240.511116027832}, 'gpu': 'NVIDIA RTX A5000', 'gpu_count': 2, 'gpu_devices': [{'name': 'NVIDIA RTX A5000', 'memory_total': 25757220864}, {'name': 'NVIDIA RTX A5000', 'memory_total': 25757220864}], 'memory': {'total': 62.438804626464844}}
+2023-01-06 10:24:42,321 INFO    HandlerThread:4055804 [system_monitor.py:probe():181] Finished collecting system info
+2023-01-06 10:24:42,322 INFO    HandlerThread:4055804 [system_monitor.py:probe():184] Publishing system info
+2023-01-06 10:24:42,322 DEBUG   HandlerThread:4055804 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2023-01-06 10:24:42,323 DEBUG   HandlerThread:4055804 [system_info.py:_save_pip():67] Saving pip packages done
+2023-01-06 10:24:42,323 DEBUG   HandlerThread:4055804 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2023-01-06 10:24:43,055 INFO    Thread-13 :4055804 [dir_watcher.py:_on_file_created():275] file/dir created: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/conda-environment.yaml
+2023-01-06 10:24:43,056 INFO    Thread-13 :4055804 [dir_watcher.py:_on_file_created():275] file/dir created: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/requirements.txt
+2023-01-06 10:24:43,056 INFO    Thread-13 :4055804 [dir_watcher.py:_on_file_created():275] file/dir created: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/wandb-summary.json
+2023-01-06 10:24:44,406 DEBUG   HandlerThread:4055804 [system_info.py:_save_conda():86] Saving conda packages done
+2023-01-06 10:24:44,407 INFO    HandlerThread:4055804 [system_monitor.py:probe():186] Finished publishing system info
+2023-01-06 10:24:44,409 DEBUG   SenderThread:4055804 [sender.py:send():303] send: files
+2023-01-06 10:24:44,409 INFO    SenderThread:4055804 [sender.py:_save_file():1171] saving file wandb-metadata.json with policy now
+2023-01-06 10:24:44,413 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: stop_status
+2023-01-06 10:24:44,414 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: stop_status
+2023-01-06 10:24:44,624 DEBUG   SenderThread:4055804 [sender.py:send():303] send: telemetry
+2023-01-06 10:24:44,625 DEBUG   SenderThread:4055804 [sender.py:send():303] send: config
+2023-01-06 10:24:45,054 INFO    Thread-13 :4055804 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/conda-environment.yaml
+2023-01-06 10:24:45,054 INFO    Thread-13 :4055804 [dir_watcher.py:_on_file_created():275] file/dir created: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/wandb-metadata.json
+2023-01-06 10:24:45,156 INFO    Thread-16 :4055804 [upload_job.py:push():143] Uploaded file /tmp/tmpo777d4v6wandb/2ihgyqqb-wandb-metadata.json
+2023-01-06 10:24:45,212 DEBUG   SenderThread:4055804 [sender.py:send():303] send: telemetry
+2023-01-06 10:24:45,242 DEBUG   SenderThread:4055804 [sender.py:send():303] send: telemetry
+2023-01-06 10:24:46,601 DEBUG   SenderThread:4055804 [sender.py:send():303] send: telemetry
+2023-01-06 10:24:46,611 DEBUG   SenderThread:4055804 [sender.py:send():303] send: telemetry
+2023-01-06 10:24:46,685 DEBUG   SenderThread:4055804 [sender.py:send():303] send: telemetry
+2023-01-06 10:24:47,055 INFO    Thread-13 :4055804 [dir_watcher.py:_on_file_created():275] file/dir created: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/output.log
+2023-01-06 10:24:47,194 DEBUG   SenderThread:4055804 [sender.py:send():303] send: telemetry
+2023-01-06 10:24:49,056 INFO    Thread-13 :4055804 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/output.log
+2023-01-06 10:24:54,057 INFO    Thread-13 :4055804 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/output.log
+2023-01-06 10:24:55,395 DEBUG   SenderThread:4055804 [sender.py:send():303] send: exit
+2023-01-06 10:24:55,395 INFO    SenderThread:4055804 [sender.py:send_exit():442] handling exit code: 1
+2023-01-06 10:24:55,395 INFO    SenderThread:4055804 [sender.py:send_exit():444] handling runtime: 13
+2023-01-06 10:24:55,396 INFO    SenderThread:4055804 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 10:24:55,396 INFO    SenderThread:4055804 [sender.py:send_exit():450] send defer
+2023-01-06 10:24:55,400 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:24:55,400 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 0
+2023-01-06 10:24:55,400 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:24:55,400 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 0
+2023-01-06 10:24:55,400 INFO    SenderThread:4055804 [sender.py:transition_state():463] send defer: 1
+2023-01-06 10:24:55,400 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:24:55,401 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 1
+2023-01-06 10:24:55,401 INFO    HandlerThread:4055804 [system_monitor.py:finish():160] Stopping system monitor
+2023-01-06 10:24:55,413 DEBUG   SystemMonitor:4055804 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2023-01-06 10:24:55,413 DEBUG   SystemMonitor:4055804 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2023-01-06 10:24:55,413 DEBUG   SystemMonitor:4055804 [system_monitor.py:_start():141] Publishing last batch of metrics
+2023-01-06 10:24:55,414 INFO    HandlerThread:4055804 [interfaces.py:finish():175] Joined cpu
+2023-01-06 10:24:55,414 INFO    HandlerThread:4055804 [interfaces.py:finish():175] Joined disk
+2023-01-06 10:24:55,552 INFO    HandlerThread:4055804 [interfaces.py:finish():175] Joined gpu
+2023-01-06 10:24:55,552 INFO    HandlerThread:4055804 [interfaces.py:finish():175] Joined memory
+2023-01-06 10:24:55,552 INFO    HandlerThread:4055804 [interfaces.py:finish():175] Joined network
+2023-01-06 10:24:55,552 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:24:55,552 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 1
+2023-01-06 10:24:55,552 INFO    SenderThread:4055804 [sender.py:transition_state():463] send defer: 2
+2023-01-06 10:24:55,552 DEBUG   SenderThread:4055804 [sender.py:send():303] send: stats
+2023-01-06 10:24:55,553 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:24:55,553 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 2
+2023-01-06 10:24:55,553 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:24:55,553 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 2
+2023-01-06 10:24:55,553 INFO    SenderThread:4055804 [sender.py:transition_state():463] send defer: 3
+2023-01-06 10:24:55,553 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:24:55,553 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 3
+2023-01-06 10:24:55,553 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:24:55,553 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 3
+2023-01-06 10:24:55,554 INFO    SenderThread:4055804 [sender.py:transition_state():463] send defer: 4
+2023-01-06 10:24:55,554 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:24:55,554 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 4
+2023-01-06 10:24:55,554 DEBUG   SenderThread:4055804 [sender.py:send():303] send: summary
+2023-01-06 10:24:55,554 INFO    SenderThread:4055804 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-01-06 10:24:55,554 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:24:55,554 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 4
+2023-01-06 10:24:55,554 INFO    SenderThread:4055804 [sender.py:transition_state():463] send defer: 5
+2023-01-06 10:24:55,555 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:24:55,555 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 5
+2023-01-06 10:24:55,555 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:24:55,555 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 5
+2023-01-06 10:24:55,827 INFO    SenderThread:4055804 [sender.py:transition_state():463] send defer: 6
+2023-01-06 10:24:55,828 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:24:55,828 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 6
+2023-01-06 10:24:55,828 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:24:55,828 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 6
+2023-01-06 10:24:56,058 INFO    Thread-13 :4055804 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/config.yaml
+2023-01-06 10:24:56,059 INFO    Thread-13 :4055804 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/wandb-summary.json
+2023-01-06 10:24:56,395 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: poll_exit
+2023-01-06 10:24:57,059 INFO    Thread-13 :4055804 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/output.log
+2023-01-06 10:24:57,177 INFO    SenderThread:4055804 [sender.py:transition_state():463] send defer: 7
+2023-01-06 10:24:57,177 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: poll_exit
+2023-01-06 10:24:57,178 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:24:57,178 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 7
+2023-01-06 10:24:57,178 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:24:57,178 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 7
+2023-01-06 10:24:57,178 INFO    SenderThread:4055804 [dir_watcher.py:finish():362] shutting down directory watcher
+2023-01-06 10:24:57,395 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: poll_exit
+2023-01-06 10:24:58,059 INFO    Thread-13 :4055804 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/output.log
+2023-01-06 10:24:58,060 INFO    SenderThread:4055804 [dir_watcher.py:finish():392] scan: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files
+2023-01-06 10:24:58,060 INFO    SenderThread:4055804 [dir_watcher.py:finish():406] scan save: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/conda-environment.yaml conda-environment.yaml
+2023-01-06 10:24:58,061 INFO    SenderThread:4055804 [dir_watcher.py:finish():406] scan save: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/requirements.txt requirements.txt
+2023-01-06 10:24:58,061 INFO    SenderThread:4055804 [dir_watcher.py:finish():406] scan save: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/wandb-summary.json wandb-summary.json
+2023-01-06 10:24:58,067 INFO    SenderThread:4055804 [dir_watcher.py:finish():406] scan save: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/wandb-metadata.json wandb-metadata.json
+2023-01-06 10:24:58,078 INFO    SenderThread:4055804 [dir_watcher.py:finish():406] scan save: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/config.yaml config.yaml
+2023-01-06 10:24:58,079 INFO    SenderThread:4055804 [dir_watcher.py:finish():406] scan save: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/output.log output.log
+2023-01-06 10:24:58,079 INFO    SenderThread:4055804 [sender.py:transition_state():463] send defer: 8
+2023-01-06 10:24:58,079 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: poll_exit
+2023-01-06 10:24:58,080 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:24:58,086 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 8
+2023-01-06 10:24:58,093 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:24:58,093 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 8
+2023-01-06 10:24:58,094 INFO    SenderThread:4055804 [file_pusher.py:finish():168] shutting down file pusher
+2023-01-06 10:24:58,397 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: poll_exit
+2023-01-06 10:24:58,397 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: poll_exit
+2023-01-06 10:24:58,851 INFO    Thread-17 :4055804 [upload_job.py:push():143] Uploaded file /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/conda-environment.yaml
+2023-01-06 10:24:58,870 INFO    Thread-18 :4055804 [upload_job.py:push():143] Uploaded file /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/requirements.txt
+2023-01-06 10:24:58,886 INFO    Thread-20 :4055804 [upload_job.py:push():143] Uploaded file /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/config.yaml
+2023-01-06 10:24:58,888 INFO    Thread-19 :4055804 [upload_job.py:push():143] Uploaded file /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/wandb-summary.json
+2023-01-06 10:24:59,398 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: poll_exit
+2023-01-06 10:24:59,400 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: poll_exit
+2023-01-06 10:24:59,927 INFO    Thread-21 :4055804 [upload_job.py:push():143] Uploaded file /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/files/output.log
+2023-01-06 10:25:00,128 INFO    Thread-12 :4055804 [sender.py:transition_state():463] send defer: 9
+2023-01-06 10:25:00,128 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:25:00,129 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 9
+2023-01-06 10:25:00,129 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:25:00,129 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 9
+2023-01-06 10:25:00,129 INFO    SenderThread:4055804 [file_pusher.py:join():173] waiting for file pusher
+2023-01-06 10:25:00,129 INFO    SenderThread:4055804 [sender.py:transition_state():463] send defer: 10
+2023-01-06 10:25:00,130 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:25:00,130 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 10
+2023-01-06 10:25:00,130 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:25:00,130 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 10
+2023-01-06 10:25:00,341 INFO    SenderThread:4055804 [sender.py:transition_state():463] send defer: 11
+2023-01-06 10:25:00,342 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:25:00,342 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 11
+2023-01-06 10:25:00,343 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:25:00,343 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 11
+2023-01-06 10:25:00,343 INFO    SenderThread:4055804 [sender.py:transition_state():463] send defer: 12
+2023-01-06 10:25:00,344 DEBUG   SenderThread:4055804 [sender.py:send():303] send: final
+2023-01-06 10:25:00,344 DEBUG   SenderThread:4055804 [sender.py:send():303] send: footer
+2023-01-06 10:25:00,344 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: defer
+2023-01-06 10:25:00,345 INFO    HandlerThread:4055804 [handler.py:handle_request_defer():162] handle defer: 12
+2023-01-06 10:25:00,345 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: defer
+2023-01-06 10:25:00,345 INFO    SenderThread:4055804 [sender.py:send_request_defer():459] handle sender defer: 12
+2023-01-06 10:25:00,346 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: poll_exit
+2023-01-06 10:25:00,347 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: poll_exit
+2023-01-06 10:25:00,348 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: poll_exit
+2023-01-06 10:25:00,348 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: poll_exit
+2023-01-06 10:25:00,349 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: server_info
+2023-01-06 10:25:00,349 DEBUG   SenderThread:4055804 [sender.py:send_request():317] send_request: server_info
+2023-01-06 10:25:00,354 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: get_summary
+2023-01-06 10:25:00,355 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: sampled_history
+2023-01-06 10:25:00,809 INFO    MainThread:4055804 [wandb_run.py:_footer_history_summary_info():3408] rendering history
+2023-01-06 10:25:00,810 INFO    MainThread:4055804 [wandb_run.py:_footer_history_summary_info():3440] rendering summary
+2023-01-06 10:25:00,810 INFO    MainThread:4055804 [wandb_run.py:_footer_sync_info():3364] logging synced files
+2023-01-06 10:25:00,811 DEBUG   HandlerThread:4055804 [handler.py:handle_request():139] handle_request: shutdown
+2023-01-06 10:25:00,811 INFO    HandlerThread:4055804 [handler.py:finish():814] shutting down handler
+2023-01-06 10:25:01,344 INFO    WriterThread:4055804 [datastore.py:close():279] close: /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_102441-1baso0wb/run-1baso0wb.wandb
+2023-01-06 10:25:01,808 INFO    SenderThread:4055804 [sender.py:finish():1331] shutting down sender
+2023-01-06 10:25:01,809 INFO    SenderThread:4055804 [file_pusher.py:finish():168] shutting down file pusher
+2023-01-06 10:25:01,809 INFO    SenderThread:4055804 [file_pusher.py:join():173] waiting for file pusher
+2023-01-06 10:25:01,814 INFO    MainThread:4055804 [internal.py:handle_exit():77] Internal process exited

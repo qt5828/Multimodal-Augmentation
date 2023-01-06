@@ -1,0 +1,136 @@
+{
+    "os": "Linux-5.15.0-56-generic-x86_64-with-glibc2.35",
+    "python": "3.9.15",
+    "heartbeatAt": "2023-01-06T01:22:01.946934",
+    "startedAt": "2023-01-06T01:22:01.146905",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--dataset",
+        "coco",
+        "--neg_mix",
+        "--mmmix=1.0",
+        "--name",
+        "221014_MSCOCO_MM"
+    ],
+    "state": "running",
+    "program": "/home/wooyeon/Multimodal-Augmentation/GMMIX/clip_mod_sph.py",
+    "codePath": "GMMIX/clip_mod_sph.py",
+    "git": {
+        "remote": "git@github.com:qt5828/Multimodal-Augmentation.git",
+        "commit": "3edcb26b4695fa61c632be33ad6bc172e20ba6ba"
+    },
+    "email": "qt5828@naver.com",
+    "root": "/home/wooyeon/Multimodal-Augmentation",
+    "host": "iknow-master",
+    "username": "wooyeon",
+    "executable": "/home/iknow/anaconda3/envs/ma/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2510.3955625,
+        "min": 1000.0,
+        "max": 4000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2088.737,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2081.545,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2030.873,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2083.105,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2084.777,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2082.123,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2082.004,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2084.435,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2080.864,
+            "min": 1000.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2102.726,
+            "min": 1000.0,
+            "max": 4000.0
+        }
+    ],
+    "disk": {
+        "total": 3665.956069946289,
+        "used": 2240.5108909606934
+    },
+    "gpu": "NVIDIA RTX A5000",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX A5000",
+            "memory_total": 25757220864
+        },
+        {
+            "name": "NVIDIA RTX A5000",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 62.438804626464844
+    }
+}

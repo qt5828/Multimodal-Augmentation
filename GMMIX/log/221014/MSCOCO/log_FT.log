@@ -1,0 +1,27 @@
+wandb: Currently logged in as: wooyeon (iknow_multimodal). Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.7
+wandb: Run data is saved locally in /home/wooyeon/Multimodal-Augmentation/GMMIX/wandb/run-20230106_143824-qbb6hm0w
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run 221014_MSCOCO_FT
+wandb: ⭐️ View project at https://wandb.ai/iknow_multimodal/MMix-COCO2
+wandb: 🚀 View run at https://wandb.ai/iknow_multimodal/MMix-COCO2/runs/qbb6hm0w
+/home/wooyeon/Multimodal-Augmentation/GMMIX/CLIP/clip/clip.py:23: UserWarning: PyTorch version 1.7.1 or higher is recommended
+  warnings.warn("PyTorch version 1.7.1 or higher is recommended")
+wandb: ERROR Failed to sample metric: process no longer exists (pid=404535)
+Exception in thread MsgRouterThr:
+Traceback (most recent call last):
+  File "/home/iknow/anaconda3/envs/ma/lib/python3.9/threading.py", line 980, in _bootstrap_inner
+    self.run()
+  File "/home/iknow/anaconda3/envs/ma/lib/python3.9/threading.py", line 917, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/iknow/anaconda3/envs/ma/lib/python3.9/site-packages/wandb/sdk/interface/router.py", line 70, in message_loop
+    msg = self._read_message()
+  File "/home/iknow/anaconda3/envs/ma/lib/python3.9/site-packages/wandb/sdk/interface/router_queue.py", line 36, in _read_message
+    msg = self._response_queue.get(timeout=1)
+  File "/home/iknow/anaconda3/envs/ma/lib/python3.9/multiprocessing/queues.py", line 117, in get
+    res = self._recv_bytes()
+  File "/home/iknow/anaconda3/envs/ma/lib/python3.9/multiprocessing/connection.py", line 217, in recv_bytes
+    self._check_closed()
+  File "/home/iknow/anaconda3/envs/ma/lib/python3.9/multiprocessing/connection.py", line 141, in _check_closed
+    raise OSError("handle is closed")
+OSError: handle is closed
